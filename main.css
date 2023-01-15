@@ -1,4 +1,5 @@
 .list-group {
+<<<<<<< HEAD
   display: none;
 }
 
@@ -18,5 +19,11 @@
   background: white;
   border-radius: 5px;
   padding: 30px;
+=======
+>>>>>>> acba0dc290aaa6e5c58085e8b3edbc8ce8ddfb0e
   display: none;
+}
+
+.show {
+  display: block;
 }
